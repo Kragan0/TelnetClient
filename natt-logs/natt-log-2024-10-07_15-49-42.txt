@@ -1,0 +1,25 @@
+[15:49:42][NATTCore][INFO] Entering to the server host mode ...
+[15:49:42][MessageBuffer][INFO] Message buffer created for module with name: telnet-server-echo
+[15:49:42][TelnetServer][INFO] (telnet-server-echo) Server socket is listening on port 9999
+[15:50:06][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-1 ] Content: 'halo'
+[15:50:06][TelnetServer][INFO] (telnet-server-echo) Message send: halo
+[15:50:06][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[15:50:06][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[15:50:38][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-2 ] Content: ''
+[15:50:38][TelnetServer][INFO] (telnet-server-echo) Message send: 
+[15:50:58][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[15:50:58][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[15:51:15][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-3 ] Content: 'skuska'
+[15:51:15][TelnetServer][INFO] (telnet-server-echo) Message send: skuska
+[15:51:28][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[15:51:28][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[15:55:18][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-4 ] Content: 'ahoj'
+[15:55:18][TelnetServer][INFO] (telnet-server-echo) Message send: ahoj
+[15:55:23][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-4 ] Content: 'funguje to'
+[15:55:23][TelnetServer][INFO] (telnet-server-echo) Message send: funguje to
+[15:58:22][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-5 ] Content: 'ahoj'
+[15:58:22][TelnetServer][INFO] (telnet-server-echo) Message send: ahoj
+[15:58:25][TelnetServer][INFO] (telnet-server-echo) Client disconnected
+[16:00:35][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-6 ] Content: 'ahoj'
+[16:00:35][TelnetServer][INFO] (telnet-server-echo) Message send: ahoj
+[16:00:44][TelnetServer][INFO] (telnet-server-echo) Client disconnected

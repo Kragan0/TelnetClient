@@ -7,7 +7,7 @@ public class App {
         // String server_ip = args[0];
         // int port = Integer.parseInt(args[1]);
         
-        TelnetClient telnetClient = new TelnetClient("127.0.0.1", 23);
+        TelnetClient telnetClient = new TelnetClient("127.0.0.1" , 9999);
         telnetClient.run(); // run telnet client
     }
 }
